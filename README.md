@@ -1,3 +1,3 @@
 # exercise-motivation
 
-Watch motivational videos
+**Watch motivational videos on YouTube**
